@@ -1,0 +1,8 @@
+D:\vs\ProtobufP1\ProtobufP1\Codec.cpp;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\Codec.obj
+D:\vs\ProtobufP1\ProtobufP1\CodecFactory.cpp;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\CodecFactory.obj
+D:\vs\ProtobufP1\ProtobufP1\main.cpp;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\main.obj
+D:\vs\ProtobufP1\ProtobufP1\Message.pb.cc;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\Message.pb.obj
+D:\vs\ProtobufP1\ProtobufP1\Request.cpp;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\Request.obj
+D:\vs\ProtobufP1\ProtobufP1\RequestFactory.cpp;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\RequestFactory.obj
+D:\vs\ProtobufP1\ProtobufP1\RespondFactory.cpp;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\RespondFactory.obj
+D:\vs\ProtobufP1\ProtobufP1\Response.cpp;D:\vs\ProtobufP1\ProtobufP1\x64\Debug\Response.obj
