@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\vs\\ProtobufP1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Response.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Response.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Codec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Codec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Codec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Codec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\RespondFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\RespondFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,26 +47,6 @@
       "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\CodecFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Codec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Codec.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Codec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Codec.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Response.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Response.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|D:\\vs\\ProtobufP1\\ProtobufP1\\Response.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E4C00315-93C4-4F8A-993B-A91A7B3838E3}|ProtobufP1\\ProtobufP1.vcxproj|solutionrelative:ProtobufP1\\Response.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -58,37 +58,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RespondFactory.h",
-              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\RespondFactory.h",
-              "RelativeDocumentMoniker": "ProtobufP1\\RespondFactory.h",
-              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\RespondFactory.h",
-              "RelativeToolTip": "ProtobufP1\\RespondFactory.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-14T02:41:05.569Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CodecFactory.cpp",
-              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\CodecFactory.cpp",
-              "RelativeDocumentMoniker": "ProtobufP1\\CodecFactory.cpp",
-              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\CodecFactory.cpp",
-              "RelativeToolTip": "ProtobufP1\\CodecFactory.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-14T01:55:09.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "RequestFactory.cpp",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\RequestFactory.cpp",
               "RelativeDocumentMoniker": "ProtobufP1\\RequestFactory.cpp",
@@ -96,12 +74,11 @@
               "RelativeToolTip": "ProtobufP1\\RequestFactory.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwBgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-14T02:29:37.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T02:29:37.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "CodecFactory.h",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\CodecFactory.h",
               "RelativeDocumentMoniker": "ProtobufP1\\CodecFactory.h",
@@ -109,38 +86,37 @@
               "RelativeToolTip": "ProtobufP1\\CodecFactory.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-14T01:50:17.87Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T01:50:17.87Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Codec.cpp",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\Codec.cpp",
               "RelativeDocumentMoniker": "ProtobufP1\\Codec.cpp",
               "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\Codec.cpp",
               "RelativeToolTip": "ProtobufP1\\Codec.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-13T09:05:41.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "main.cpp",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\main.cpp",
               "RelativeDocumentMoniker": "ProtobufP1\\main.cpp",
               "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\main.cpp",
               "RelativeToolTip": "ProtobufP1\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-13T06:52:18.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Request.h",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\Request.h",
               "RelativeDocumentMoniker": "ProtobufP1\\Request.h",
@@ -148,12 +124,11 @@
               "RelativeToolTip": "ProtobufP1\\Request.h",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-13T08:21:33.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T08:21:33.165Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Codec.h",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\Codec.h",
               "RelativeDocumentMoniker": "ProtobufP1\\Codec.h",
@@ -166,33 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RequestFactory.h",
-              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\RequestFactory.h",
-              "RelativeDocumentMoniker": "ProtobufP1\\RequestFactory.h",
-              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\RequestFactory.h",
-              "RelativeToolTip": "ProtobufP1\\RequestFactory.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-14T01:57:33.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Response.h",
-              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\Response.h",
-              "RelativeDocumentMoniker": "ProtobufP1\\Response.h",
-              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\Response.h",
-              "RelativeToolTip": "ProtobufP1\\Response.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-13T08:35:30.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Request.cpp",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\Request.cpp",
               "RelativeDocumentMoniker": "ProtobufP1\\Request.cpp",
@@ -205,6 +154,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.h",
+              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\Response.h",
+              "RelativeDocumentMoniker": "ProtobufP1\\Response.h",
+              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\Response.h",
+              "RelativeToolTip": "ProtobufP1\\Response.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T08:35:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CodecFactory.cpp",
+              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\CodecFactory.cpp",
+              "RelativeDocumentMoniker": "ProtobufP1\\CodecFactory.cpp",
+              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\CodecFactory.cpp",
+              "RelativeToolTip": "ProtobufP1\\CodecFactory.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-14T01:55:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RespondFactory.h",
+              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\RespondFactory.h",
+              "RelativeDocumentMoniker": "ProtobufP1\\RespondFactory.h",
+              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\RespondFactory.h",
+              "RelativeToolTip": "ProtobufP1\\RespondFactory.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAABIwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-14T02:41:05.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestFactory.h",
+              "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\RequestFactory.h",
+              "RelativeDocumentMoniker": "ProtobufP1\\RequestFactory.h",
+              "ToolTip": "D:\\vs\\ProtobufP1\\ProtobufP1\\RequestFactory.h",
+              "RelativeToolTip": "ProtobufP1\\RequestFactory.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-14T01:57:33.416Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Response.cpp",
               "DocumentMoniker": "D:\\vs\\ProtobufP1\\ProtobufP1\\Response.cpp",
@@ -213,8 +212,7 @@
               "RelativeToolTip": "ProtobufP1\\Response.cpp",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-13T09:24:06.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T09:24:06.631Z"
             }
           ]
         }
